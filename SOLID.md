@@ -30,3 +30,6 @@
 **[Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)**
 > 
 > One should "depend upon abstractions, \[not\] concretions."
+
+Refer 
+- [solid-principles](https://www.baeldung.com/solid-principles)
